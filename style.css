@@ -626,9 +626,9 @@ html,body{
 
 @media only screen and (max-width: 600px), (max-width:200px){
  
-     html, body {
+/*      html, body {
         width: 482px;
-    }
+    } */
     header{
         padding: 0px;
         width: 121vw;
