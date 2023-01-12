@@ -632,7 +632,8 @@ html,body{
         position: relative;
     }
     #hero h1{
-         font-size: 26px;   
+         font-size: 26px;
+        margin-top: -3px;
     }
     .jyoti{
         height: 81px;
@@ -644,18 +645,18 @@ html,body{
         padding: 6px;
     }
     .navbar img{
-        width: 80px;
-        height: 80px;
+        width: 65px;
+        height: 65px;
         border-radius: 50%;
         box-shadow: 0px 0px 11px blue;
         margin-bottom: 70px;
         margin-left: 0px;
     }
     .media{
-        gap: 6px;
+        gap: 5px;
         font-size: 9px;
         margin-top: -130px;
-        margin-left: 86px;
+        margin-left: 46px;
     }
     .social-media{
         margin-right: 13px;
@@ -727,7 +728,7 @@ html,body{
 
 .card {
     margin-left: 12px;
-    width: 325px;
+    width: 312px;
     margin-top: 31px;
 }
 
@@ -773,7 +774,7 @@ html,body{
 .black-section {
     margin-top: 15px;
     height: 67rem;
-    width: 26rem;
+    width: 23rem;
 }
 .number{
     display: flow-root;
@@ -836,7 +837,7 @@ html,body{
     text-align: justify;
 }
 .text0 h2 {
-    font-size: 17px;
+    font-size: 19px;
     font-weight: 700;
     margin-top: 29px;
 }
@@ -887,7 +888,7 @@ html,body{
     margin-top: 29px;
     border-radius: 50px;
     margin-bottom: 15px;
-    margin-left: 8rem;
+    margin-left: 9rem;
 }
 .iconC {
     font-size: 38px;
