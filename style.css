@@ -640,7 +640,7 @@ html,body{
     }
     .jyoti{
         height: 81px;
-        width: 83%;
+        width: 100%;
         text-shadow: 1px 0px 1px red, 2px 0px 2px blue, 1px 0px 2px orangered;;
     }
     
@@ -655,11 +655,11 @@ html,body{
         margin-bottom: 70px;
         margin-left: 0px;
     }
-    .media{
-        gap: 4px;
-        font-size: 7px;
-        margin-top: -130px;
-        margin-left: 46px;
+    .media {
+        gap: 5px;
+        font-size: 8px;
+        margin-top: -119px;
+        margin-left: 65px;
     }
     .social-media{
         margin-right: 13px;
@@ -677,6 +677,7 @@ html,body{
    }
    .introduction {
     margin-left: 19px;
+    margin-right: 10px;
     margin-top: 0px;
     text-align: justify;
 }
@@ -717,8 +718,8 @@ html,body{
 .product p {
     margin: 24px 14px 0px 14px;
     text-align: justify ;
-    font-size: 16px;
-    word-spacing: 3px;
+    font-size: 14px;
+    word-spacing: -2px;
     border-radius: 0px;
 }
 .project_container{
@@ -747,6 +748,7 @@ html,body{
     margin-right: 1rem;
 }
 .range p {
+    margin-right: 10px;
     margin-top: 0px;
     font-size: 13px;
     word-spacing: 0px;
@@ -767,7 +769,7 @@ html,body{
     border: 2px solid black;
     border-radius: 50px;
     margin-top: 4px;
-    margin-left: 114px;
+    margin-left: 94px;
 }
 .name {
     text-align: center;
@@ -781,7 +783,7 @@ html,body{
 }
 .number{
     display: flow-root;
-    margin-left: 158px;
+    margin-left: 150px;
     text-align: center;
     justify-items: stretch;
 }
