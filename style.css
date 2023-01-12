@@ -632,7 +632,7 @@ html,body{
         position: relative;
     }
     #hero h1{
-         font-size: 22px;   
+         font-size: 26px;   
     }
     .jyoti{
         height: 81px;
@@ -658,7 +658,7 @@ html,body{
         margin-left: 86px;
     }
     .social-media{
-        margin-right: 28px;
+        margin-right: 13px;
         margin-top: 46px;
         gap: 7px;
         font-size: 30px;
@@ -727,7 +727,7 @@ html,body{
 
 .card {
     margin-left: 12px;
-    width: 343px;
+    width: 325px;
     margin-top: 31px;
 }
 
@@ -749,10 +749,10 @@ html,body{
     text-align: justify;
 }
 .page-container {
-    margin-left: 66px;
+    margin-left: 44px;
 }
 .card1{
-    width: 280px;
+    width: 233px;
     margin-top: 24px;
 }
 .icon {
@@ -836,7 +836,7 @@ html,body{
     text-align: justify;
 }
 .text0 h2 {
-    font-size: 22px;
+    font-size: 17px;
     font-weight: 700;
     margin-top: 29px;
 }
@@ -871,7 +871,7 @@ html,body{
     border-radius: 50px;
     background-color: white;
     margin-bottom: 14px;
-    margin-left: 11rem;
+    margin-left: 9rem;
 }
 .name2 h2{
     font-size: 23px;
@@ -887,7 +887,7 @@ html,body{
     margin-top: 29px;
     border-radius: 50px;
     margin-bottom: 15px;
-    margin-left: 11rem;
+    margin-left: 8rem;
 }
 .iconC {
     font-size: 38px;
@@ -897,7 +897,7 @@ html,body{
     border-radius: 50px;
     background-color: white;
     margin-bottom: 10px;
-    margin-left: 11rem;
+    margin-left: 9rem;
 }
 .footer-logo img {
     margin-top: 3px;
